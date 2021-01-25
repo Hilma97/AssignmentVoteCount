@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VoteGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "-o votes.csv"
+    }
+  }
+}
